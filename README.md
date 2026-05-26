@@ -14,7 +14,7 @@ The Problem with Rigid Shells: Rigid shells (like the Viking-era 70-degree spher
 # DFTC Mechanical Cross-Section (Top-Down View)
 
         ========================= OUTER BOUNDARY =========================
-        [  ] Layer 1: Flexible Segmented Aero-Skin (Moves Radially)
+        [  ] Layer 1:  Segmented Aero-shell (Moves Radially) - this can be any metal
         [  ] Layer 2: Variable Volumetric Buffer Zone (Hollow / Pneumatic Air Void)
         ========================= CENTRAL CHASSIS ========================
         [||] Layer 3: Non-Deforming Heavy Structural Core Axis
