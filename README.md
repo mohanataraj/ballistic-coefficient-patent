@@ -22,6 +22,7 @@ The Problem with Rigid Shells: Rigid shells (like the Viking-era 70-degree spher
 [##] Layer 5: Cryogenic Propellant Shell 2 (Liquid Oxygen Core)
 ==================================================================
 
+
         [EXPANDED MANEUVER: HIGH DRAG STATE]
            _______________________________
           /   _________________________   \
