@@ -1,4 +1,4 @@
-# ballistic-coefficient-
+# ballistic-coefficient-solution
 This is a rocket process or mechanism for diametrically volume collapsable structure
 
 BACKGROUND
