@@ -25,6 +25,8 @@ PS NOTE: we havent seen any prior art on this concept - if any please feel to ma
 ### AI is useful 
 -  A conversation with AI and me explaining my ideas and it giving me what my idea solves and an understanding of it.
 
+### FUTURE
+- exploring this idea for expansion and contraction [https://en.wikipedia.org/wiki/Conical_spiral] (while used for cone)
    
 BACKGROUND
 Researchers have been studying "Low Ballistic Coefficient" vehicles for decades to solve the landing problem for heavy (1+ ton) payloads. [1]
