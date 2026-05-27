@@ -22,7 +22,10 @@ WHY
 - there has been no such innovation in rockets for a long time, and such ideas and solutions exists and not pursued.
 
 PS NOTE: we havent seen any prior art on this concept - if any please feel to mail the author, otherwise this is the first of such rocket.
+### AI is useful 
+-  A conversation with AI and me explaining my ideas and it giving me what my idea solves and an understanding of it.
 
+   
 BACKGROUND
 Researchers have been studying "Low Ballistic Coefficient" vehicles for decades to solve the landing problem for heavy (1+ ton) payloads. [1]
 The Deceleration Problem: NASA and other agencies confirm that a lower ballistic coefficient is necessary to decelerate higher in the atmosphere. This provides more "altitude margin" and time to land.
