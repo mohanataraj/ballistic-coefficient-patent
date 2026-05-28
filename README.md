@@ -24,6 +24,16 @@ WHY
 PS NOTE: we havent seen any prior art on this concept - if any please feel to mail the author, otherwise this is the first of such rocket.
 ### AI is useful 
 -  A conversation with AI and me explaining my ideas and it giving me what my idea solves and an understanding of it.
+-  Most of it is structural and trying to understand the structural physics
+
+Novelty
+-  its embeded in the process of diameterically morphing the rocket itself radially outwards
+-  we use atmospheric pressure, velocity to change the rockets structure and position in space - horizontal to absorb & reduce the velocity
+
+Structural and its physical impact Novelty (needs better visualization / simulation and verification of such methodology - but checks out)
+- this happens in the petal shaped cone aspect of the rocket
+- the iris or any other shaped tiles that make up the rocket structure
+- the movement radially outwards and inwards to form certain aerodynamic shape of the rocket
 
 ### FUTURE
 - exploring this idea for expansion and contraction [https://en.wikipedia.org/wiki/Conical_spiral] (while used for cone)
