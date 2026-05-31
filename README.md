@@ -1,3 +1,5 @@
+checkout process to design build rockets docx to see how to build design patent, Idea starts it all.
+
 # ballistic-coefficient-solution
 This is a rocket process or mechanism for diametrically volume collapsable structure, these are a whole new class of rockets where idea has not being seen or implemented yet. This is the first form of writing to work on a such class of rockets to solve ballistic coefficient problem. 
 
@@ -24,6 +26,7 @@ WHY
 PS NOTE: we havent seen any prior art on this concept - if any please feel to mail the author, otherwise this is the first of such rocket.
 ### AI is useful 
 -  A conversation with AI and me explaining my ideas and it giving me what my idea solves and an understanding of it.
+    - basic understanding of Dzhanibekov Effect and how it effects this.
 -  Most of it is structural and trying to understand the structural physics
 
 Novelty
